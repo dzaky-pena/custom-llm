@@ -18,7 +18,7 @@ app = Flask(__name__)
 # Set up your OpenAI API key and client
 client = OpenAI(
     base_url="https://api.groq.com/openai/v1",
-    api_key="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"
+    api_key="api-key"
 )
 # Open Notify API endpoint for ISS location
 ISS_LOCATION_ENDPOINT = "http://api.open-notify.org/iss-now.json"

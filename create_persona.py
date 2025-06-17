@@ -11,7 +11,7 @@ payload = {
     "layers": {
         "llm": {
             "base_url": "https://e9f3-180-245-191-222.ngrok-free.app/",
-            "api_key": "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",
+            "api_key": "api-key",
             "model": "llama-3.3-70b-versatile",
             "tools": [
                 {
@@ -41,7 +41,7 @@ payload = {
     }
 }
 headers = {
-    "x-api-key": "0b5bb0d630774b4588a17f580a7c04da",
+    "x-api-key": "api-key",
     "Content-Type": "application/json"
 }
 
